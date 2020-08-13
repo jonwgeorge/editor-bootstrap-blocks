@@ -1,2 +1,11 @@
-# editor-bootstrap-blocks
-A Kirby Editor plugin to add bootstrap elements as blocks.
+# Kirby-CMS-Bootstrap-Editor-Blocks
+
+Bootstrap blocks for [KirbyCMS Editor](https://github.com/getkirby/editor)
+
+## Current Elements
+
+- Alert
+
+### Todo
+
+- Style editor preview like output
