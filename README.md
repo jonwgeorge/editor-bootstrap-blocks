@@ -8,4 +8,4 @@ Bootstrap blocks for [KirbyCMS Editor](https://github.com/getkirby/editor)
 
 ## Installation
 
-You can install this editor block as a regular Kirby plugin by placing the alert-block folder in site/plugins
+You can install any editor block as a regular Kirby plugin by placing the "*name*-block" folder in site/plugins
