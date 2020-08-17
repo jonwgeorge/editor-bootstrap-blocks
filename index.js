@@ -12,14 +12,14 @@ editor.block("alert", {
           label: this.$t("editor.blocks.image.css.label"),
           type: "select",
           options: [
-            { text: "Primary", value: "primary" },
-            { text: "Secondary", value: "secondary" },
-            { text: "Success", value: "success" },
-            { text: "Danger", value: "danger" },
-            { text: "Warning", value: "warning" },
-            { text: "Info", value: "info" },
-            { text: "Light", value: "light" },
-            { text: "Dark", value: "dark" },
+            { text: "Primary", value: "alert alert-primary" },
+            { text: "Secondary", value: "alert alert-secondary" },
+            { text: "Success", value: "alert alert-success" },
+            { text: "Danger", value: "alert alert-danger" },
+            { text: "Warning", value: "alert alert-warning" },
+            { text: "Info", value: "alert alert-info" },
+            { text: "Light", value: "alert alert-light" },
+            { text: "Dark", value: "alert alert-dark" },
           ],
           icon: "code",
         },
@@ -80,8 +80,8 @@ editor.block("alert", {
     <p>
       <k-editable
         ref="input"
+        :class="attrs.css"
         :content="content"
-        style="background-color: WhiteSmoke; padding: .5rem; border-radius: .5rem;"
         @input="onInput"
         @back="onBack"]
         @input="onInput"
