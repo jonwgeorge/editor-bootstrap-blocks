@@ -1,4 +1,4 @@
-# Kirby-Editor-Bootstrap-Blocks
+# Kirby-Editor-Bootstrap-Alert-Block
 
 Bootstrap blocks for [KirbyCMS Editor](https://github.com/getkirby/editor)
 
