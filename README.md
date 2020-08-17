@@ -1,11 +1,4 @@
-# Kirby-Editor-Bootstrap-Blocks
+# Kirby-Editor-Blocks
+Just a repository of different editor blocks for [Kirby CMS Editor](https://github.com/getkirby/editor) I have created for use on projects and personal sites.
 
-Bootstrap blocks for [KirbyCMS Editor](https://github.com/getkirby/editor)
-
-## Current Elements
-
-- Alert
-
-## Installation
-
-You can install any editor block as a regular Kirby plugin by placing the "*name*-block" folder in site/plugins
+Feel free to use/modify. No credit needed.

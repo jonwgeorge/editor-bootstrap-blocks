@@ -1,11 +1,9 @@
-# Kirby-Editor-Bootstrap-Alert-Block
+# Bootstrap Alert Block
 
-Bootstrap blocks for [KirbyCMS Editor](https://github.com/getkirby/editor)
-
-## Current Elements
+Dispalays alert divs from [Bootstrap CSS](https://getbootstrap.com).
 
 - Alert
 
 ## Installation
 
-You can install this editor block as a regular Kirby plugin by placing the alert-block folder in site/plugins
+You can install this editor block as a regular Kirby plugin by placing the editor-alert-block folder in site/plugins
